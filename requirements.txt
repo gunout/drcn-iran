@@ -6,8 +6,6 @@ matplotlib
 seaborn
 scikit-learn
 pytz
-smtplib
 requests
 urllib3
-warnings
 python-dotenv
